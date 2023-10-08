@@ -30,7 +30,7 @@ parameters:
   required: true
 - displayName: Integrate Quay.io
   description: Integrate image build and deployment with Quay.io 
-  value: "false"
+  value: "true"
   name: ENABLE_QUAY
   required: true
 - displayName: Quay.io Username
